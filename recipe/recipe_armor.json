@@ -143,7 +143,7 @@
     "components": [
 	  [ [ "leather", 16 ], [ "tanned_hide", 3 ] ],
       [ [ "bone_reinforced_plate", 150 ] ],
-	  [ [ "filament", 300, "LIST" ] ]
+	  [ [ "filament", 200, "LIST" ] ]
     ]
   },
   {
@@ -156,11 +156,11 @@
     "time": 180000,
     "autolearn": true,
     "book_learn": [ [ "textbook_tailor", 6 ], [ "tailor_portfolio", 6 ] ],
-    "using": [ [ "sewing_standard", 10 ] ],
+    "using": [ [ "sewing_standard", 100 ] ],
     "components": [
 	  [ [ "leather", 30 ], [ "tanned_hide", 5 ] ],
-      [ [ "bone_reinforced_plate", 300 ] ],
-	  [ [ "filament", 500, "LIST" ] ]
+      [ [ "bone_reinforced_plate", 250 ] ],
+	  [ [ "filament", 400, "LIST" ] ]
     ]
   }
 ]
