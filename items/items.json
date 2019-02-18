@@ -7,7 +7,7 @@
     "weight": 350,
     "color": "light_gray",
     "symbol": "%",
-    "description": "A bone removed from some skeletal creature, with strange properties that appear to make it more resilient to cuts. Seems more brittle than you remember it being.",
+    "description": "A bone removed from some skeletal creature, with strange properties that appear to make it more resilient than any regular bone. Seems more brittle than you remember it being.",
     "price": 0,
     "material": "bone_imp",
     "volume": 1
@@ -20,7 +20,7 @@
     "weight": 750,
     "color": "light_gray",
     "symbol": "%",
-    "description": "Plating that has been removed from a hulking skeletal monster, able to withstand a lot of abuse. Touching it feels like it may just break any minute, yet it seems sturdy enough to be workable.",
+    "description": "Plating that has been removed from a hulking skeletal monster, able to withstand a lot of abuse. Touching it feels like it may just break any minute, yet it seems sturdy when force is applied to it.",
     "price": 0,
     "material": "bone_reinforced",
     "volume": 1
@@ -28,7 +28,7 @@
   {
     "type": "AMMO",
 	"id": "bone_imp_plate",
-	"name": "small hardened boneplate",
+	"name": "small hardened boneplating",
 	"category" : "spare_parts",
 	"ammo_type": "components",
 	"weight": 3,
