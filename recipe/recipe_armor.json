@@ -1,0 +1,166 @@
+[
+  {
+    "result": "armguard_bone",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_ARMS",
+    "skill_used": "tailor",
+    "difficulty": 4,
+    "time": 45000,
+    "autolearn": true,
+	"using": [ [ "sewing_standard", 16 ] ],
+    "components": [
+      [ [ "leather", 6 ], [ "tanned_hide", 1 ] ],
+      [ [ "bone_imp_plate", 100 ] ],
+	  [ [ "filament", 150, "LIST" ] ]
+    ]
+  },
+  {
+    "result": "boots_bone",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_FEET",
+    "skill_used": "tailor",
+    "difficulty": 4,
+    "time": 45000,
+    "autolearn": true,
+    "using": [ [ "sewing_standard", 10 ] ],
+    "components": [
+	  [ [ "leather", 4 ] ],
+      [ [ "bone_imp_plate", 50 ] ],
+	  [ [ "filament", 100, "LIST" ] ]
+    ]
+  },
+  {
+    "result": "gauntlets_bone",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_HANDS",
+    "skill_used": "tailor",
+    "difficulty": 4,
+    "time": 45000,
+    "autolearn": true,
+    "using": [ [ "sewing_standard", 10 ] ],
+    "components": [
+	  [ [ "leather", 4 ] ],
+      [ [ "bone_imp_plate", 50 ] ],
+	  [ [ "filament", 100, "LIST" ] ]
+    ]
+  },
+  {
+    "result": "helmet_bone",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_HEAD",
+    "skill_used": "tailor",
+    "difficulty": 5,
+    "time": 75000,
+    "autolearn": true,
+	"book_learn": [ [ "textbook_tailor", 4 ], [ "tailor_portfolio", 4 ] ],
+	"using": [ [ "sewing_standard", 10 ] ],
+    "components": [
+	  [ [ "leather", 4 ] ],
+      [ [ "bone_imp_plate", 100 ] ],
+	  [ [ "filament", 200, "LIST" ] ]
+    ]
+  },
+  {
+    "result": "armor_bone",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_SUIT",
+    "skill_used": "tailor",
+    "difficulty": 5,
+    "time": 120000,
+    "autolearn": true,
+    "book_learn": [ [ "textbook_tailor", 4 ], [ "tailor_portfolio", 4 ] ],
+    "using": [ [ "sewing_standard", 10 ] ],
+    "components": [
+	  [ [ "leather", 18 ], [ "tanned_hide", 3 ] ],
+      [ [ "bone_imp_plate", 300 ] ],
+	  [ [ "filament", 300, "LIST" ] ]
+    ]
+  },
+  {
+    "result": "reinforced_armguard_bone",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_ARMS",
+    "skill_used": "tailor",
+    "difficulty": 6,
+    "time": 90000,
+    "autolearn": true,
+	"using": [ [ "sewing_standard", 30 ] ],
+    "components": [
+      [ [ "leather", 18 ], [ "tanned_hide", 3 ] ],
+      [ [ "bone_reinforced_plate", 150 ] ],
+	  [ [ "filament", 150, "LIST" ] ]
+    ]
+  }, 
+  {
+    "result": "reinforced_boots_bone",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_FEET",
+    "skill_used": "tailor",
+    "difficulty": 6,
+    "time": 75000,
+    "autolearn": true,
+    "using": [ [ "sewing_standard", 30 ] ],
+    "components": [
+	  [  [ "leather", 18 ], [ "tanned_hide", 3 ] ],
+      [ [ "bone_reinforced_plate", 75 ] ],
+	  [ [ "filament", 150, "LIST" ] ]
+    ]
+  },
+  {
+    "result": "reinforced_gauntlets_bone",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_HANDS",
+    "skill_used": "tailor",
+    "difficulty": 6,
+    "time": 60000,
+    "autolearn": true,
+    "using": [ [ "sewing_standard", 35 ] ],
+    "components": [
+	  [ [ "leather", 6 ], [ "tanned_hide", 1 ] ],
+      [ [ "bone_reinforced_plate", 75 ] ],
+	  [ [ "filament", 150, "LIST" ] ]
+    ]
+  },
+  {
+    "result": "reinforced_helmet_bone",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_HEAD",
+    "skill_used": "tailor",
+    "difficulty": 6,
+    "time": 90000,
+    "autolearn": true,
+	"book_learn": [ [ "textbook_tailor", 5 ], [ "tailor_portfolio", 5 ] ],
+	"using": [ [ "sewing_standard", 50 ] ],
+    "components": [
+	  [ [ "leather", 16 ], [ "tanned_hide", 3 ] ],
+      [ [ "bone_reinforced_plate", 150 ] ],
+	  [ [ "filament", 300, "LIST" ] ]
+    ]
+  },
+  {
+    "result": "reinforced_armor_bone",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_SUIT",
+    "skill_used": "tailor",
+    "difficulty": 7,
+    "time": 180000,
+    "autolearn": true,
+    "book_learn": [ [ "textbook_tailor", 6 ], [ "tailor_portfolio", 6 ] ],
+    "using": [ [ "sewing_standard", 10 ] ],
+    "components": [
+	  [ [ "leather", 30 ], [ "tanned_hide", 5 ] ],
+      [ [ "bone_reinforced_plate", 300 ] ],
+	  [ [ "filament", 500, "LIST" ] ]
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "recipe",
+    "result": "bone_imp_plate",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+	"skill_used": "fabrication",
+	"skills_required": [ "tailor", 3 ],
+	"difficulty": 3,
+	"autolearn": true,
+	"time": 30000,
+	"batch_time_factors": [ 40, 3 ],
+	"qualities": [ { "id": "SAW_W", "level": 1 }, 
+				   { "id": "CUT", "level": 1 },
+				   { "id": "CUT_FINE", "level": 1}
+				 ],
+	"components": [
+	[ ["bone_imp", 1 ] ] 
+	]
+  },
+
+  {
+    "type": "recipe",
+    "result": "bone_reinforced_plate",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_OTHER",
+	"skill_used": "fabrication",
+	"skills_required": [ "tailor", 3 ],
+	"difficulty": 5,
+	"autolearn": true,
+	"time": 45000,
+	"batch_time_factors": [ 25, 3 ],
+	"qualities": [ { "id": "SAW_M", "level": 1 },
+				   { "id": "SAW_M_FINE", "level": 1 },	
+				   { "id": "CUT", "level": 1 },
+				   { "id": "DRILL", "level": 1}
+				 ],
+    "components": [
+	[ ["bone_reinforced", 1] ]
+	]
+  }
+]

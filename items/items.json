@@ -1,0 +1,60 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "bone_imp",
+    "category": "spare_parts",
+    "name": "hardened bone",
+    "weight": 350,
+    "color": "light_gray",
+    "symbol": "%",
+    "description": "A bone removed from some skeletal creature, with strange properties that appear to make it more resilient to cuts. Seems more brittle than you remember it being.",
+    "price": 0,
+    "material": "bone_imp",
+    "volume": 1
+  },
+  {
+    "type": "GENERIC",
+    "id": "bone_reinforced",
+    "category": "spare_parts",
+    "name": "reinforced boneplating",
+    "weight": 750,
+    "color": "light_gray",
+    "symbol": "%",
+    "description": "Plating that has been removed from a hulking skeletal monster, able to withstand a lot of abuse. Touching it feels like it may just break any minute, yet it seems sturdy enough to be workable.",
+    "price": 0,
+    "material": "bone_reinforced",
+    "volume": 1
+  },
+  {
+    "type": "AMMO",
+	"id": "bone_imp_plate",
+	"name": "small hardened boneplate",
+	"category" : "spare_parts",
+	"ammo_type": "components",
+	"weight": 3,
+	"color": "light_gray",
+	"symbol": "%",
+	"description": "Small plates made from hardened bone, worked into shape. While brittle, they still offer great protective abilities and should be able to be put onto clothing to add extra protection.",
+	"price": 0,
+	"count": 25,
+	"stack_size": 25,
+	"material": "bone_imp",
+	"volume": 1
+  },
+  {
+    "type": "AMMO",
+	"id": "bone_reinforced_plate",
+	"name": "small reinforced boneplating",
+    "category" : "spare_parts",
+	"ammo_type": "components",
+	"weight": 7,
+	"color": "light_gray",
+	"symbol": "%",
+	"description": "Many small, intricate plates worked from bone plating that had no right to be as tough to work on than it turned out to be. Even in this shape it still is nearly as durable as its big plate counterpart and when layered over clothing, could provide excellent protection.",
+	"price": 0,
+	"count": 25,
+	"stack_size": 25,
+	"material": "bone_reinforced",
+	"volume": 1
+  }
+]

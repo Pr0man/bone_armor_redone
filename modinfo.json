@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "bone_armor_redone",
+    "name": "Bone Armor Redone",
+    "authors": [ "Pr0man" ],
+    "description": "A mod that is trying to reinstate bone armor with recipes that reflect real world application without breaking in world laws. Also adds a new set of armor made from skeletal juggernauts.",
+    "category": "misc_additions",
+	"dependencies": [ "dda" ]
+  }
+]

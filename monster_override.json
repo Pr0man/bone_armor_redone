@@ -1,0 +1,9 @@
+[
+  {
+    "id": "mon_skeleton_hulk",
+	"type": "MONSTER",
+	"copy-from": "mon_skeleton_hulk",
+	"harvest": "skelejugg"
+  }
+]
+	
