@@ -138,7 +138,6 @@
     "difficulty": 6,
     "time": 90000,
     "autolearn": true,
-	"book_learn": [ [ "textbook_tailor", 5 ], [ "tailor_portfolio", 5 ] ],
 	"using": [ [ "sewing_standard", 50 ] ],
     "components": [
 	  [ [ "leather", 16 ], [ "tanned_hide", 3 ] ],
@@ -152,10 +151,9 @@
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_SUIT",
     "skill_used": "tailor",
-    "difficulty": 7,
+    "difficulty": 6,
     "time": 180000,
     "autolearn": true,
-    "book_learn": [ [ "textbook_tailor", 6 ], [ "tailor_portfolio", 6 ] ],
     "using": [ [ "sewing_standard", 100 ] ],
     "components": [
 	  [ [ "leather", 30 ], [ "tanned_hide", 5 ] ],
