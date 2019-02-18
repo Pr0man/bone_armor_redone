@@ -77,7 +77,7 @@
     "using": [ [ "sewing_standard", 10 ] ],
     "components": [
 	  [ [ "leather", 18 ], [ "tanned_hide", 3 ] ],
-      [ [ "bone_imp_plate", 300 ] ],
+      [ [ "bone_imp_plate", 200 ] ],
 	  [ [ "filament", 300, "LIST" ] ]
     ]
   },
