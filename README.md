@@ -20,7 +20,7 @@ Reinforced boneplated armor:
 
   -learned at stage 6/7 of tailoring
 
-  -great overall protection  (15/30 Bash/Cut) for reasonable encumbrance (~25), coming with 2 Acid, 3 Env. protection.
+  -great overall protection  (15/25 Bash/Cut) for reasonable encumbrance (22), coming with 2 Acid, 3 Env. protection.
 
   -requires lots of filament for sewing on plates, costs the same amount of leather than the standard leather armor.
 
