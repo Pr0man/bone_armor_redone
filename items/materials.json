@@ -1,7 +1,7 @@
 [
   {
     "type": "material",
-    "ident": "bone_imp",
+    "ident": "bone_hardened",
     "name": "Hardened Bone",
     "density": 7,
     "edible": false,

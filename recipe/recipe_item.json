@@ -1,7 +1,7 @@
 [
   {
     "type": "recipe",
-    "result": "bone_imp_plate",
+    "result": "bone_hardened_plate",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_OTHER",
 	"skill_used": "fabrication",
@@ -15,7 +15,7 @@
 				   { "id": "CUT_FINE", "level": 1}
 				 ],
 	"components": [
-	[ ["bone_imp", 1 ] ] 
+	[ ["bone_hardened", 1 ] ] 
 	]
   },
 

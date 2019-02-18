@@ -1,7 +1,7 @@
 [
   {
     "type": "GENERIC",
-    "id": "bone_imp",
+    "id": "bone_hardened",
     "category": "spare_parts",
     "name": "hardened bone",
     "weight": 350,
@@ -9,7 +9,7 @@
     "symbol": "%",
     "description": "A bone removed from some skeletal creature, with strange properties that appear to make it more resilient than any regular bone. Seems more brittle than you remember it being.",
     "price": 0,
-    "material": "bone_imp",
+    "material": "bone_hardened",
     "volume": 1
   },
   {
@@ -27,7 +27,7 @@
   },
   {
     "type": "AMMO",
-	"id": "bone_imp_plate",
+	"id": "bone_hardened_plate",
 	"name": "small hardened boneplating",
 	"category" : "spare_parts",
 	"ammo_type": "components",
@@ -38,7 +38,7 @@
 	"price": 0,
 	"count": 25,
 	"stack_size": 25,
-	"material": "bone_imp",
+	"material": "bone_hardened",
 	"volume": 1
   },
   {
